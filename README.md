@@ -1,2 +1,3 @@
 # News-Chatbot
-A voice recognizable and voice interactive news chatbot developed using JavaScript. Used NewsApi for real time news data. 
+A news chatbot is a software application used to conduct an on-line news chat conversation via text or text-to-speech. 
+https://gauravdada.github.io/News-Chatbot/
